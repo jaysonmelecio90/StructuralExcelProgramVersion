@@ -1,8 +1,5 @@
-# Structural Excel Program Version 1.9.7.1
-1971
+# Structural Excel Program Version 1.9.7.2
+1972
 
-Updated User Interface for Retaining Wall
+New Additional Program Strip Footing
 
-Updated User Interface for Combined Footing
-
-Updated User Interface for Strap Footing
