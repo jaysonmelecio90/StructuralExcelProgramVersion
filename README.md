@@ -1,5 +1,4 @@
-# Structural Excel Program Version 1.9.7.2
-1972
+# Structural Excel Program Version 1.9.7.3
+1973
 
-New Additional Program Strip Footing
-
+Updated Rectangular Beam Design - Fixed Autocad Export
