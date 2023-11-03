@@ -1,4 +1,4 @@
-# Structural Excel Program Version 1.9.7.5
-1975
+# Structural Excel Program Version 1.9.7.6
+1976
 
-Updated Slab Design - Show Table
+Updated Beam Design
