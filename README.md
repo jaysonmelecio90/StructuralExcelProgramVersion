@@ -1,4 +1,4 @@
-# Structural Excel Program Version 1.9.7.8
-1978
+# Structural Excel Program Version 1.9.7.9
+1979
 
-Updated Beam Design - Fixed Error Print Preview
+Updated Beam Design - Group Data Extract CAD Dxf
