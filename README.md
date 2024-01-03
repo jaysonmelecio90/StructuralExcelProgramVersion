@@ -1,4 +1,4 @@
-# Structural Excel Program Version 1.9.7.9
-1979
+# Structural Excel Program Version 1.9.8.0
+1980
 
-Updated Beam Design - Group Data Extract CAD Dxf
+Combined Footing Rebar Size Fixed
