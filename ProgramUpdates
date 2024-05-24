@@ -1,1 +1,101 @@
+*StrucEx Pro Program Updates *
+■ StrucEx Pro Version 1.9.1
+	►Updated on Design on Foundation Design
+		●New Ui Design on Foundation Design
 
+■ StrucEx Pro Version 1.8.4
+	►Updated on Design on Circular Column
+		●New Ui Design on Circular Column now Combine to Rectangular Column
+
+■ StrucEx Pro Version 1.8.3
+	►Updated on Design on Steel Design
+		●New Ui Design on Steel Design
+
+■ StrucEx Pro Version 1.8.2
+	►Updated on Response Spectrum New Program
+
+■ StrucEx Pro Version 1.8.1
+	►Updated on Convert Unit
+
+■ StrucEx Pro Version 1.1.0
+	►Updated on Design on Rectangular Column
+		●Multi Design of Design Select on ETABS
+		●Multi Design of Design Select on STAAD PRO
+
+
+■ StrucEx Pro Version 1.09.1
+	►Updated on Design on Rectangular Column
+		●Fixed Copy Length ETABS
+
+■ StrucEx Pro Version 1.09.0  
+	►Additional Free Module "ETABS Tools"
+		●Create Material
+		●Create Section
+		●Create Load Case /  Load Combination
+		●Checking
+
+	►Updated on Design on Combined Footing
+		●Fixed save problem
+
+■ StrucEx Pro Version 1.08.3  
+	►Updated on Rectangular Beam  
+		●Export on Autocad the Table Schedule
+
+■ StrucEx Pro Version 1.08.1  
+	►Additional Free Module "Staad Tools"
+		●Create Floor Group
+		●Create Materials
+		●Offset Member
+		●Create Release / Support
+	►Updated on Design on Slab
+		●Export on Autocad the Slab Schedule
+
+■ StrucEx Pro Version 1.08  
+	►Additional Setting
+		●You can now Initial Set your logo before opening the program
+		●You can now Initial Set the location of ETABS library
+
+	►Updated on Rectangular Beam
+		●Multi Design of Design Select on ETABS
+
+	►Updated on Isolated Footing Design
+		●Multi Design on Selected Support on ETABS
+					  
+■ StrucEx Pro Version 1.07  
+	►Additional Module "Combined Strap Footing Design"
+
+    ►Updated on Combined Footing Design
+		●Import Reaction from ETABS Result
+		●Import Reaction from FrameCe Result
+
+■ StrucEx Pro Version 1.06	  
+	►Updated on Isolated Footing Design
+		●Multi Design of Footing on Select support on STAAD PRO
+		
+■ StrucEx Pro Version 1.05	  
+	►Updated on Rectangular Beam
+		●Multi Design of Design Select on STAAD PRO
+		
+■ StrucEx Pro Version 1.03	  
+	►Updated on LRFD I Design
+
+■ StrucEx Pro Version 1.02		  
+	►Updated Rectangular Column Program 
+		●Import Stress Axial Moment from ETABS Result
+		●Import Stress Axial Moment from FrameCe Result
+
+	►Updated Circular Column Program 
+		●Import Stress Axial Moment from ETABS Result
+		●Import Stress Axial Moment from FrameCe Result
+
+
+■ StrucEx Pro Version 1.01
+	►Updated Beam Program 
+		●Updated Torsion Design
+		●Now includes Crack Control Check
+		  
+	►Updated Rectangular Column Program 
+		●Updated Slenderness Design 
+		●Updated User Interface
+			§ : The Beam will appear on the column 3d if the  design 
+				consider  slenderness
